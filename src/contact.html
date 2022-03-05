@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,500&family=Space+Grotesk:wght@600&display=swap"
+    rel="stylesheet">
+    
+  <!-- Font awesome -->
+  <script src="https://kit.fontawesome.com/3d87822f0b.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+
+  <!-- CSS stylesheet -->
+  <link rel="stylesheet" href="css/style.css" />
+  <title>TraceyNgo</title>
+</head>
+
+<body>
+  <!-- Navigation bar -->
+  <header>
+    <nav class="main-nav">
+      <input type="checkbox" id="check" />
+      <label for="check" class="menu-btn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <a href="index.html" class="logo"><img src="images/avatar-logo.png" alt="avatar image"></a>
+      <ul class="navlinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="project.html">Projects</a></li>
+        <li><a href="contact.html" class="contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Contact</h1>
+    <section>
+      <form action="mailto:traceyngo8@gmail.com" method="post" enctype="text/plain" <label for="fname">First
+        Name</label>
+        <input type="text" id="fname" name="firstname" />
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" />
+        <label for="email">Your Email</label>
+        <input type="text" id="email" name="email" />
+        <label>Your Message</label><br />
+        <textarea name="yourMessage" id="" cols="0" rows="10"></textarea><br />
+        <input type="submit" />
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <a class="footer-link" href="https://linkedin.com/in/tracey-ngo"><i class="fa-brands fa-linkedin fa-lg"></i></a>
+    <a class="footer-link" href="https://github.com/NTracey"><i class="fa-brands fa-github fa-lg"></i></a>
+    <a class="footer-link" href="mailto:traceyngo8@gmail.com"><i class="fa-solid fa-envelope fa-lg"></i></a>
+    <p class="copyright">&copy;2022 Tracey Ngo</p>
+  </footer>
+</body>
+
+</html>
