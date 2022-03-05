@@ -80,7 +80,7 @@ footer {
 
 .navlinks li {
   display: inline-block;
-  margin: 0px 30px;
+  margin: 0 30px;
 }
 
 .navlinks li a {
@@ -140,11 +140,11 @@ a.btn:hover {
 
 @keyframes bouncy {
   0% {
-    top: 0em;
+    top: 0;
   }
 
   40% {
-    top: 0em;
+    top: 0;
   }
 
   43% {
@@ -152,7 +152,7 @@ a.btn:hover {
   }
 
   46% {
-    top: 0em;
+    top: 0;
   }
 
   48% {
@@ -160,11 +160,11 @@ a.btn:hover {
   }
 
   50% {
-    top: 0em;
+    top: 0;
   }
 
   100% {
-    top: 0em;
+    top: 0;
   }
 }
 
