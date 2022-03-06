@@ -1,7 +1,5 @@
-# 1. Portfolio website:<br>
-  https://tracey-ngo.netlify.app/project.html
-# 2. Github repo:<br>
-https://github.com/NTracey/CA
+# 1. [Portfolio website](https://tracey-ngo.netlify.app/project.html)
+# 2. [Github repo](https://github.com/NTracey/CA)
 
 # 3. Description of portfolio website
 ## Purpose

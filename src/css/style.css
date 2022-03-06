@@ -46,7 +46,7 @@ section {
   padding: 2rem 0.3rem;
 }
 
-/* Footer */
+/* Footer Component*/
 footer {
   background-color: var(--bright-color);
   padding: 20px;
@@ -62,7 +62,7 @@ footer {
   color: var(--dark-color);
 }
 
-/* Navigation Bar */
+/* Navigation Bar Component*/
 .topnav {
   height: 90px;
 }
@@ -113,6 +113,7 @@ footer {
   justify-content: center;
 }
 
+/* Button component */
 a.btn {
   display: block;
   padding: 0.35em 1.2em;
@@ -202,6 +203,7 @@ a.btn:hover {
 
 
 /* Blog and Project Page*/
+/* Card Component */
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -263,7 +265,7 @@ a.card-link:link {
   font-weight: 700;
 }
 
-/* Contact Page */
+/* Contact Page Component*/
 input[type=text],
 select,
 textarea {

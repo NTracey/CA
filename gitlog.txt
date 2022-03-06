@@ -1,3 +1,9 @@
+commit 28644295547b5684d2c4eeb0341fe0132529ac1a
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 16:30:23 2022 +1100
+
+    portfolio icon update
+
 commit 5369d343c5fa34152d8b428094a909225cc545e0
 Author: Tracey Ngo <traceyngo8@gmail.com>
 Date:   Sun Mar 6 16:12:42 2022 +1100
