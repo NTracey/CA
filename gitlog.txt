@@ -1,0 +1,29 @@
+commit 48a4681eba26cb5f39ac748773cadf2114e2c935
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 16:08:11 2022 +1100
+
+    update portfolio
+
+commit b23766bd3132768ca16be33f9787469ff1373087
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 05:27:30 2022 +1100
+
+    update portfolio
+
+commit 0ab72cf733a1600bca7b5a569c302bcda03475f7
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 00:40:17 2022 +1100
+
+    html/css
+
+commit 5a2e5688b1595f90b76712941f498dcbce82fed7
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 00:24:36 2022 +1100
+
+    portfolio
+
+commit 29581c3b7b41dd4842f7dbeb10e864429967357d
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sat Mar 5 23:25:36 2022 +1100
+
+    portfolio update
