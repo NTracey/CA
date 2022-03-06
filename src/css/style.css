@@ -37,9 +37,9 @@ h1 {
   line-height: 40px;
 }
 
-h2,
-h3 {
+h2 {
   text-align: center;
+  padding-bottom: 1rem;
 }
 
 section {
@@ -194,7 +194,7 @@ a.btn:hover {
 }
 
 .row {
-  padding: 1rem 0;
+  padding-bottom: 1rem;
 }
 
 .column ul {
@@ -224,6 +224,7 @@ a.card-link:link {
   text-decoration: none;
   color: inherit;
 }
+
 .card img {
   max-width: 100%;
 }
@@ -371,7 +372,7 @@ input[type=submit]:hover {
     display: flex;
     flex-direction: column;
     flex: 1;
-    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   /* Blog */

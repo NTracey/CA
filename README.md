@@ -5,7 +5,7 @@
 ## Purpose
   The purpose of the portfolio is to showcase my abilities, information about myself and work as a web developer to advertise myself. 
 ## Functionality/Features.
-All pages share a common which includes the font, background, navbar and footer.
+All pages share a common theme which includes the font, background, navbar and footer.
 - ### Home page
   - Small introduction of myself
   - Navigation bar on top that turns into a hamburger menu on mobile size.
