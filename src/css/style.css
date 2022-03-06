@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  width: 80%;
+  width: 95%;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -33,8 +33,8 @@ h1 {
   color: var(--bright-color);
   text-align: center;
   font-family: var(--secondary-font);
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 30px;
+  line-height: 40px;
 }
 
 h2,
@@ -43,7 +43,7 @@ h3 {
 }
 
 section {
-  padding: 2rem;
+  padding: 2rem 0.3rem;
 }
 
 /* Footer */
@@ -193,12 +193,13 @@ a.btn:hover {
 }
 
 .row {
-  padding: 1rem;
+  padding: 1rem 0;
 }
 
 .column ul {
   padding: 0 2rem;
 }
+
 
 /* Blog and Project Page*/
 .card-container {
@@ -217,12 +218,10 @@ a.btn:hover {
   background: var(--light-color);
 }
 
-.card a.card-link:link,
-a.card-link:visited {
+a.card-link:link {
   text-decoration: none;
   color: inherit;
 }
-
 .card img {
   max-width: 100%;
 }
@@ -235,11 +234,6 @@ a.card-link:visited {
   color: var(--dark-color);
 }
 
-.card-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-}
 
 /* Blog Post Page */
 .blog {
@@ -265,7 +259,7 @@ a.card-link:visited {
 }
 
 .date {
-  margin-top: 2rem;
+  margin: 1rem 0;
   font-weight: 700;
 }
 
@@ -336,9 +330,26 @@ input[type=submit]:hover {
 }
 
 /* Tablet and Desktop version */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1000px) {
+  main {
+    width: 80%;
+  }
 
-  /* Home Page button */
+  section {
+    padding: 2rem;
+  }
+
+  h1 {
+    font-size: 40px;
+    /* line-height: ; */
+  }
+
+  /* Home Page */
+  #home-page h1 {
+    font-size: 60px;
+    line-height: 1.3;
+  }
+
   a.btn {
     display: inline-block;
   }
