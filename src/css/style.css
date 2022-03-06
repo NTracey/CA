@@ -111,6 +111,7 @@ footer {
 /* Homepage */
 #home-page {
   justify-content: center;
+  text-align: center;;
 }
 
 /* Button component */
