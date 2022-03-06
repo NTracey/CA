@@ -1,3 +1,15 @@
+commit 52ec6b498ecfffd5bd1cf272534e7f30fca6d646
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 18:33:44 2022 +1100
+
+    codes validated
+
+commit 50d8049a70299f3e28216bd9eb121ddd3a300465
+Author: Tracey Ngo <traceyngo8@gmail.com>
+Date:   Sun Mar 6 17:50:06 2022 +1100
+
+    read.md link fixed
+
 commit 02bd60c7b77623dccfc36d0445c4c361442cf331
 Author: Tracey Ngo <traceyngo8@gmail.com>
 Date:   Sun Mar 6 17:47:32 2022 +1100
